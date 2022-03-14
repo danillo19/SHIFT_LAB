@@ -1,4 +1,4 @@
-# SHIFT_LAB(SHOP APP)
+# SHOP APP
 back-end app, which has RESTful HTTP methods:
 - Add item
 - Edit item
